@@ -6,3 +6,4 @@
 - [Project 1](https://github.com/manuzz/CRUDSqlite):  CRUD using SQLite from Xamarin.Forms.
 - [Project 2](https://github.com/manuzz/AppTest):  Consuming a REST Service in Xamarin.Forms.
 - [Project 3](https://github.com/manuzz/AppApiPost):  Calling an HTTP POST Rest API in Xamarin.Forms.
+- [Project 4](https://github.com/manuzz/AppQRTest):  Generating a QR Code from Xamarin.Forms.
