@@ -4,3 +4,4 @@
 
 ## Xamarin Projects
 - [Project 1](https://github.com/manuzz/CRUDSqlite):  CRUD using SQLite from Xamarin.Forms.
+- [Project 2](https://github.com/manuzz/AppTest):  Llamar una REST API HTTP GET usnado XAmarin.Forms.
